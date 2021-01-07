@@ -8,5 +8,9 @@ MEAT
 Sausages
 
 DAIRY
+Milk
+Eggs
+Yogurt
+Butter
 
 HOUSEHOLD
