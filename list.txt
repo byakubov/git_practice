@@ -11,5 +11,9 @@ Lamb
 Beef
 
 DAIRY
+Milk
+Eggs
+Yogurt
+Butter
 
 HOUSEHOLD
